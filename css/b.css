@@ -1,18 +1,7 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>Sayfa Başlığı</title>
-
-<style>
 body {
-	background-image: url("ayrıkvadi.jpg ");
-} 
-
-</style>
-
-</head>
-
-<body>
-
-</body>
-</html>
+    font-family: Verdana, monospace, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: justify;
+    background-image: url('ayrıkvadi.jpg');
+}
